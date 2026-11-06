@@ -60,7 +60,8 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Documentation
+            Documentation is the work
+            
           </a>
         </div>
       </main>
